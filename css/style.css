@@ -19,6 +19,7 @@ nav{
     background: hsla(180, 100%, 50%,.5);
     display: flex;
     position: relative;
+    
 }
 .list_menu{
     display: flex;
